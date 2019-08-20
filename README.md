@@ -34,6 +34,7 @@ Collection of resources to learn and practice WebApp attacks.
 * [Challenges mentioned here](https://github.com/s0md3v/AwesomeXSS)
 * [Web for Pentester](https://pentesterlab.com/exercises/web_for_pentester/course)
 * [Gruyere](https://google-gruyere.appspot.com/)
+ * [XSS LABS](https://xsslabs.tech/)
 
 
 ## **SSRF** ##
@@ -108,6 +109,7 @@ Collection of resources to learn and practice WebApp attacks.
 
 ## **XXE** ##
 * https://www.bugcrowd.com/blog/advice-from-a-bug-hunter-xxe/
+* https://www.synack.com/blog/a-deep-dive-into-xxe-injection/
 * https://www.acunetix.com/blog/articles/xml-external-entity-xxe-vulnerabilities/
 * https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Processing
 * https://phonexicum.github.io/infosec/xxe.html
@@ -162,6 +164,7 @@ Collection of resources to learn and practice WebApp attacks.
 * [Hackthissite](https://www.hackthissite.org/)
 * [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project)
 * [Bug Bounty Notes](https://www.bugbountynotes.com/training)
+* [Hackertest](https://www.hackertest.net/)
 
 
 ## **BOOKS** ##
