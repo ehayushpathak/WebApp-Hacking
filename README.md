@@ -1,14 +1,14 @@
 # WebApp-Hacking
 Collection of resources to learn and practice WebApp attacks.
 
-##**SQL injection**##
+## **SQL injection** ##
 * https://www.pluralsight.com/courses/ethical-hacking-sql-injection
 * https://sqlwiki.netspi.com/detection#mysql
 * http://securityidiots.com/Web-Pentest/SQL-Injection
 * https://websec.ca/kb/sql_injection
 * https://osandamalith.com/tag/mysql/page/1/
 
-####**Labs**###
+#### **Labs** ###
 * [Web security](https://portswigger.net/web-security/sql-injection)
 * [web for pentester](https://pentesterlab.com/exercises/web_for_pentester/course)
 * [web for pentester II](https://pentesterlab.com/exercises/web_for_pentester_II/course)
@@ -20,22 +20,23 @@ Collection of resources to learn and practice WebApp attacks.
 * [Sqli-labs](https://github.com/Audi-1/sqli-labs)
 * [Omega CTF](http://52.9.242.167/)  [Solution](https://www.facebook.com/260216091537472/videos/352007452356718/)
 
-####**BOOK**#### : https://www.amazon.com/Injection-Attacks-Defense-Justin-Clarke/dp/1597499633
+#### **BOOK** #### : https://www.amazon.com/Injection-Attacks-Defense-Justin-Clarke/dp/1597499633
 
 
-##**XSS**##
+## **XSS** ##
 * https://www.google.com/about/appsecurity/learning/xss/#BasicExample
 * http://brutelogic.com.br/blog/
 * https://github.com/s0md3v/AwesomeXSS
+* https://excess-xss.com/
 
-####**Labs**####
+#### **Labs** ####
 * [Web Security](https://portswigger.net/web-security/cross-site-scripting)
 * [Challenges mentioned here]https://github.com/s0md3v/AwesomeXSS
 * [Web for Pentester](https://pentesterlab.com/exercises/web_for_pentester/course)
 * [Gruyere](https://google-gruyere.appspot.com/)
 
 
-##**SSRF**##
+## **SSRF** ##
 * [Part 1](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-1-29d034c27978)
 * [Part 2](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-2-a085ec4332c0)
 * [Part 3](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-3-b0f5997e3739)
@@ -43,22 +44,26 @@ Collection of resources to learn and practice WebApp attacks.
 * [Part-I](https://hackersonlineclub.com/server-side-request-forgery-ssrf-types/)
 * [Part-II](https://hackersonlineclub.com/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-2/)
 * [A-New-Era-Of-SSRF](https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf)
+* https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit
 
-####**Labs**####
+#### **Labs** ####
 * [Web Security](https://portswigger.net/web-security/ssrf)
 * [Websites mentioned in this blog](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-3-b0f5997e3739)
 
 
-##**CSRF**##
+## **CSRF** ##
 * https://www.acunetix.com/blog/articles/cross-site-request-forgery/
 * https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)
 * https://www.netsparker.com/blog/web-security/csrf-cross-site-request-forgery/
+* https://medium.com/@jrozner/wiping-out-csrf-ded97ae7e83f
+* https://www.bugbountynotes.com/training/tutorial?id=5
+* https://www.youtube.com/watch?v=eWEgUcHPle0
 
-####**Labs**####
+#### **Labs** ####
 * [Web Security](https://portswigger.net/web-security/csrf)
 
 
-##**CORS**##
+## **CORS** ##
 * http://blog.portswigger.net/2016/10/exploiting-cors-misconfigurations-for.html
 * https://www.geekboy.ninja/blog/exploiting-misconfigured-cors-cross-origin-resource-sharing/
 * https://dzone.com/articles/basics-of-cors
@@ -68,52 +73,73 @@ Collection of resources to learn and practice WebApp attacks.
 * https://brutelogic.com.br/blog/cors-enabled-xss/
 * https://www.we45.com/blog/3-ways-to-exploit-misconfigured-cross-origin-resource-sharing-cors
 
-####**Labs**####
+#### **Labs** ####
 * https://github.com/incredibleindishell/CORS-vulnerable-Lab
 
 
-##**Subdomain Takeover**##
+## **Subdomain Takeover** ##
 * https://www.hackerone.com/blog/Guide-Subdomain-Takeovers
 * https://labs.detectify.com/2014/10/21/hostile-subdomain-takeover-using-herokugithubdesk-more/
 * https://github.com/EdOverflow/can-i-take-over-xyz
 * https://0xpatrik.com/subdomain-takeover-basics/
+* https://blog.detectify.com/2019/01/10/what-is-server-side-request-forgery-ssrf/?fbclid=IwAR04OVp0vVViOvCvEtCWLKu0JC1sqp3pza4NNHgD3uSUf1CKncCuVh_2DfY
 * http://subdomain-takeover.tk
 
 
-##**Directory Traversal**##
+## **Directory Traversal** ##
 * https://www.acunetix.com/websitesecurity/directory-traversal/
 * https://www.owasp.org/index.php/Path_Traversal
 * http://securityidiots.com/Web-Pentest/LFI/guide-to-lfi.html
 * https://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html
 
-####**Labs**####
+#### **Labs** ####
 * [Web Security](https://portswigger.net/web-security/file-path-traversal)
 
 
-##**Command Injection**##
+## **Command Injection** ##
 * https://www.owasp.org/index.php/Command_Injection
 * https://www.hackingarticles.in/beginner-guide-os-command-injection/
 * https://www.acunetix.com/blog/web-security-zone/os-command-injection/
 * https://www.hackerone.com/blog/how-to-command-injections
 
-####**Labs**####
+#### **Labs** ####
 * [Web Security](https://portswigger.net/web-security/os-command-injection)
 
 
-##**XXE**##
+## **XXE** ##
 * https://www.bugcrowd.com/blog/advice-from-a-bug-hunter-xxe/
 * https://www.acunetix.com/blog/articles/xml-external-entity-xxe-vulnerabilities/
 * https://www.owasp.org/index.php/XML_External_Entity_(XXE)_Processing
+* https://phonexicum.github.io/infosec/xxe.html
+* https://www.youtube.com/watch?v=gjm6VHZa_8s
 
-####**Labs**####
+#### **Labs** ####
 * [Web Security](https://portswigger.net/web-security/xxe)
 
 
-##**SSTI**##
+## **IROR** ##
+* https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/
+* https://blog.detectify.com/2016/05/25/owasp-top-10-insecure-direct-object-reference-4/
+* https://www.owasp.org/index.php/Testing_for_Insecure_Direct_Object_References_(OTG-AUTHZ-004)
+* https://www.bugbountynotes.com/training/tutorial?id=2
+* https://www.youtube.com/watch?v=rloqMGcPMkI
+
+
+## Web Cache Poisoning ##
+* https://portswigger.net/blog/practical-web-cache-poisoning
+* https://portswigger.net/blog/bypassing-web-cache-poisoning-countermeasures
+
+
+## **SSTI** ##
 * https://portswigger.net/blog/server-side-template-injection
 
 
-##**MISC**##
+## **Open Redirect Vulnerability** ##
+* https://s0cket7.com/open-redirect-vulnerability/
+* https://www.bugbountynotes.com/training/tutorial?id=1
+
+
+## **MISC** ##
 * https://portswigger.net/blog/so-you-want-to-be-a-web-security-researcher
 * https://medium.com/@niruragu/so-you-want-to-be-a-security-engineer-d8775976afb7
 * https://www.owasp.org/index.php/Category:Attack
@@ -127,14 +153,17 @@ Collection of resources to learn and practice WebApp attacks.
 * http://securityidiots.com/
 * [Web Application Pentesting](https://www.pentesteracademy.com/course?id=5)
 
-####**Labs**####
+#### **Labs** ####
 * [WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
 * [Mutillidae](https://www.owasp.org/index.php/Category:OWASP_Mutillidae)
 * [DVWA](http://www.dvwa.co.uk/)
 * [bWapp](https://sourceforge.net/projects/bwapp/)
+* [Hackthissite](https://www.hackthissite.org/)
+* [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project)
+* [Bug Bounty Notes](https://www.bugbountynotes.com/training)
 
 
-##**BOOKS**##
+## **BOOKS** ##
 * [Web-Application-Hackers-Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting-ebook/dp/B005LVQA9S)
 * [Tangledweb](https://nostarch.com/tangledweb)
 * [Web-hacking 101](https://leanpub.com/web-hacking-101)
