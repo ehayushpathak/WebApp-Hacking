@@ -132,6 +132,7 @@ Collection of resources to learn and practice WebApp attacks.
 
 ## **SSTI** ##
 * https://portswigger.net/blog/server-side-template-injection
+* https://hackerone.com/reports/125980
 
 
 ## **Open Redirect Vulnerability** ##
