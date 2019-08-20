@@ -20,7 +20,7 @@ Collection of resources to learn and practice WebApp attacks.
 * [Sqli-labs](https://github.com/Audi-1/sqli-labs)
 * [Omega CTF](http://52.9.242.167/)  [Solution](https://www.facebook.com/260216091537472/videos/352007452356718/)
 
-#### **BOOK** #### : https://www.amazon.com/Injection-Attacks-Defense-Justin-Clarke/dp/1597499633
+#### **BOOK**  : https://www.amazon.com/Injection-Attacks-Defense-Justin-Clarke/dp/1597499633
 
 
 ## **XSS** ##
