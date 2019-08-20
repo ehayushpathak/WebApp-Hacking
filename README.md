@@ -20,7 +20,7 @@ Collection of resources to learn and practice WebApp attacks.
 * [Sqli-labs](https://github.com/Audi-1/sqli-labs)
 * [Omega CTF](http://52.9.242.167/)  [Solution](https://www.facebook.com/260216091537472/videos/352007452356718/)
 
-#### **BOOK**  : https://www.amazon.com/Injection-Attacks-Defense-Justin-Clarke/dp/1597499633
+#### BOOK : [SQL Injection Attacks and Defense](https://www.amazon.com/Injection-Attacks-Defense-Justin-Clarke/dp/1597499633)
 
 
 ## **XSS** ##
@@ -31,7 +31,7 @@ Collection of resources to learn and practice WebApp attacks.
 
 #### **Labs** ####
 * [Web Security](https://portswigger.net/web-security/cross-site-scripting)
-* [Challenges mentioned here]https://github.com/s0md3v/AwesomeXSS
+* [Challenges mentioned here](https://github.com/s0md3v/AwesomeXSS)
 * [Web for Pentester](https://pentesterlab.com/exercises/web_for_pentester/course)
 * [Gruyere](https://google-gruyere.appspot.com/)
 
@@ -117,7 +117,7 @@ Collection of resources to learn and practice WebApp attacks.
 * [Web Security](https://portswigger.net/web-security/xxe)
 
 
-## **IROR** ##
+## **IDOR** ##
 * https://www.bugcrowd.com/blog/how-to-find-idor-insecure-direct-object-reference-vulnerabilities-for-large-bounty-rewards/
 * https://blog.detectify.com/2016/05/25/owasp-top-10-insecure-direct-object-reference-4/
 * https://www.owasp.org/index.php/Testing_for_Insecure_Direct_Object_References_(OTG-AUTHZ-004)
