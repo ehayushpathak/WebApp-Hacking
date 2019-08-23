@@ -18,6 +18,7 @@ Collection of resources to learn and practice WebApp attacks.
 * [cve-2012-2661](https://pentesterlab.com/exercises/cve-2012-2661/course)
 * [xss and mysql](https://pentesterlab.com/exercises/xss_and_mysql_file/course)
 * [Sqli-labs](https://github.com/Audi-1/sqli-labs)
+* [sql ninja labs](http://leettime.net/sqlninja.com/)
 * [Omega CTF](http://52.9.242.167/)  [Solution](https://www.facebook.com/260216091537472/videos/352007452356718/)
 
 #### BOOK : [SQL Injection Attacks and Defense](https://www.amazon.com/Injection-Attacks-Defense-Justin-Clarke/dp/1597499633)
