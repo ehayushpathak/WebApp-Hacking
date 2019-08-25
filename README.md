@@ -126,6 +126,7 @@ Collection of resources to learn and practice WebApp attacks.
 * https://www.owasp.org/index.php/Testing_for_Insecure_Direct_Object_References_(OTG-AUTHZ-004)
 * https://www.bugbountynotes.com/training/tutorial?id=2
 * https://www.youtube.com/watch?v=rloqMGcPMkI
+* [IDOR vulnerability automation](https://www.youtube.com/watch?v=3K1-a7dnA60&t=505s)
 
 
 ## Web Cache Poisoning ##
