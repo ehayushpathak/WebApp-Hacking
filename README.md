@@ -85,6 +85,7 @@ Collection of resources to learn and practice WebApp attacks.
 * https://github.com/EdOverflow/can-i-take-over-xyz
 * https://0xpatrik.com/subdomain-takeover-basics/
 * https://blog.detectify.com/2019/01/10/what-is-server-side-request-forgery-ssrf/?fbclid=IwAR04OVp0vVViOvCvEtCWLKu0JC1sqp3pza4NNHgD3uSUf1CKncCuVh_2DfY
+#### **Labs** ####
 * http://subdomain-takeover.tk
 
 
