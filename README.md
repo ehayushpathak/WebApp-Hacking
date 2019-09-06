@@ -72,6 +72,7 @@ Collection of resources to learn and practice WebApp attacks.
 * https://medium.com/bugbountywriteup/stealing-user-details-by-exploiting-cors-c5ee86ebe7fb
 * https://flaviocopes.com/cors/
 * https://www.corben.io/tricky-CORS/
+* https://www.corben.io/advanced-cors-techniques/
 * https://brutelogic.com.br/blog/cors-enabled-xss/
 * https://www.we45.com/blog/3-ways-to-exploit-misconfigured-cross-origin-resource-sharing-cors
 
