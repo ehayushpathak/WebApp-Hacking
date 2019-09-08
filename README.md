@@ -47,9 +47,11 @@ Collection of resources to learn and practice WebApp attacks.
 * [Part-II](https://hackersonlineclub.com/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-2/)
 * [A-New-Era-Of-SSRF](https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf)
 * https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit
+* https://github.com/jdonsec/AllThingsSSRF
 
 #### **Labs** ####
 * [Web Security](https://portswigger.net/web-security/ssrf)
+* https://www.bugbountynotes.com/challenge?id=33
 * [Websites mentioned in this blog](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-3-b0f5997e3739)
 
 
@@ -63,6 +65,7 @@ Collection of resources to learn and practice WebApp attacks.
 
 #### **Labs** ####
 * [Web Security](https://portswigger.net/web-security/csrf)
+* https://www.bugbountynotes.com/challenge?id=3
 
 
 ## **CORS** ##
@@ -130,6 +133,16 @@ Collection of resources to learn and practice WebApp attacks.
 * https://www.youtube.com/watch?v=rloqMGcPMkI
 * [IDOR vulnerability automation](https://www.youtube.com/watch?v=3K1-a7dnA60&t=505s)
 
+#### **Labs** ####
+* https://www.bugbountynotes.com/challenge?id=32
+
+## HTTP request smuggling ##
+* [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/blog/http-desync-attacks-request-smuggling-reborn)
+* https://hackerone.com/reports/498052
+
+#### **Labs** ####
+* [Web Security](https://portswigger.net/web-security/request-smuggling)
+
 
 ## Web Cache Poisoning ##
 * https://portswigger.net/blog/practical-web-cache-poisoning
@@ -144,6 +157,10 @@ Collection of resources to learn and practice WebApp attacks.
 ## **Open Redirect Vulnerability** ##
 * https://s0cket7.com/open-redirect-vulnerability/
 * https://www.bugbountynotes.com/training/tutorial?id=1
+
+#### **Labs** ####
+* https://www.bugbountynotes.com/challenge?id=4
+* https://www.bugbountynotes.com/challenge?id=9
 
 
 ## **MISC** ##
