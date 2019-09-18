@@ -130,6 +130,7 @@ Collection of resources to learn and practice WebApp attacks.
 * https://blog.detectify.com/2016/05/25/owasp-top-10-insecure-direct-object-reference-4/
 * https://www.owasp.org/index.php/Testing_for_Insecure_Direct_Object_References_(OTG-AUTHZ-004)
 * https://www.bugbountynotes.com/training/tutorial?id=2
+* https://medium.com/@vickieli/how-to-find-more-idors-ae2db67c9489
 * https://www.youtube.com/watch?v=rloqMGcPMkI
 * [IDOR vulnerability automation](https://www.youtube.com/watch?v=3K1-a7dnA60&t=505s)
 
