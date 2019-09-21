@@ -152,7 +152,13 @@ Collection of resources to learn and practice WebApp attacks.
 
 ## **SSTI** ##
 * https://portswigger.net/blog/server-side-template-injection
+* https://www.netsparker.com/blog/web-security/server-side-template-injection/
+* https://gauravnarwani.com/injecting-6200-to-1200/
 * https://hackerone.com/reports/125980
+
+#### **Labs** ####
+* https://pentesterlab.com/exercises/ssti_01/course
+* https://pentesterlab.com/exercises/ssti_02/course
 
 
 ## **Open Redirect Vulnerability** ##
