@@ -52,6 +52,7 @@ Collection of resources to learn and practice WebApp attacks.
 #### **Labs** ####
 * [Web Security](https://portswigger.net/web-security/ssrf)
 * https://www.bugbountynotes.com/challenge?id=33
+* [SSRF_Vulnerable_Lab](https://github.com/incredibleindishell/SSRF_Vulnerable_Lab?fbclid=IwAR1eSU1TISfu-3ePSuhdPODiAQ1hhaCahgrVH25ejx_txQweGljh2NZtXQo)
 * [Websites mentioned in this blog](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-3-b0f5997e3739)
 
 
