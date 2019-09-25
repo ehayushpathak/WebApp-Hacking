@@ -154,6 +154,8 @@ Collection of resources to learn and practice WebApp attacks.
 ## **SSTI** ##
 * https://portswigger.net/blog/server-side-template-injection
 * https://www.netsparker.com/blog/web-security/server-side-template-injection/
+* https://www.we45.com/blog/server-side-template-injection-a-crash-course-
+* https://0day.work/jinja2-template-injection-filter-bypasses/
 * https://gauravnarwani.com/injecting-6200-to-1200/
 * https://hackerone.com/reports/125980
 
