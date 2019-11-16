@@ -82,6 +82,7 @@ Collection of resources to learn and practice WebApp attacks.
 
 #### **Labs** ####
 * https://github.com/incredibleindishell/CORS-vulnerable-Lab
+* [Web Security](https://portswigger.net/web-security/cors)
 
 
 ## **Subdomain Takeover** ##
